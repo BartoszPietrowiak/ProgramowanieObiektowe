@@ -1,2 +1,2 @@
 # ProgramowanieObiektowe
-Nr indeksu 144368
+Laby
